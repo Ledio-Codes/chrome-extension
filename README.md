@@ -1,1 +1,1 @@
-A chrome extension that tracks leads by saving the current tabs URL to access and keep track of. This was built usingh HTML, CSS, and JavaScript.
+A chrome extension that tracks leads by saving the current tabs URL to access and keep track of. This was built usingh HTML, CSS, and JavaScript. Practiced concepts such as using addEventListener(), innerHTML, input.value, function parameters, template strings, localStorage, the JSON Object, and objects in arrays
